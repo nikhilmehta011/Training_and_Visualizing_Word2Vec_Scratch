@@ -1,0 +1,2 @@
+# Training_and_Visualizing_Word2Vec_Scratch
+Training and visualizing Word2Vec from scratch
